@@ -16,5 +16,11 @@ again change
 
 azad side changes
 
+<<<<<<< HEAD
 naurat
+=======
+azad
+
+
+>>>>>>> 8be20fa898418b71e9d3ecd3e50d2e2e5e230e65
 
