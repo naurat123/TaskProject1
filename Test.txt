@@ -7,5 +7,12 @@ azad
 
 =======
 naurat
+<<<<<<< HEAD
 >>>>>>> 9afb5e936841154bfe7194ab084023ecdbeaedae
+=======
+again change
+>>>>>>> 848cf2692d1e7c922e05af6371ce32253e9d12a7
+
+
+azad side changes
 
