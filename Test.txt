@@ -1,7 +1,11 @@
 Hi this file is just to complete task 1
 
 my local machine changes
+<<<<<<< HEAD
 
 azad
 
+=======
+naurat
+>>>>>>> 9afb5e936841154bfe7194ab084023ecdbeaedae
 
